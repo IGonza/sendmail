@@ -33,7 +33,7 @@ class Mail extends Component
 			$view->setRenderLevel(View::LEVEL_LAYOUT);
 		});
 
-		return $view->getContent();
+		//return $view->getContent();
 	}
 
 	/**
